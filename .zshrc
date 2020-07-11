@@ -77,7 +77,7 @@ ENABLE_CORRECTION="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git vscode zsh-syntax-highlighting zsh-autosuggestions autoupdate
-	colored-man-pages dotfiles)
+	colored-man-pages dotfiles ls)
 
 source $ZSH/oh-my-zsh.sh
 
